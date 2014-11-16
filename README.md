@@ -2,7 +2,6 @@ powercli
 ========
 
 VMware PowerCLI Scripts
-===
 
 Spacing Standards:
   - 5 spaces separate major sections and titles
